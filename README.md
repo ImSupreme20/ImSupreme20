@@ -19,7 +19,10 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) > -->
 
 <h2>☁️ Cloud Projects:</h2>
+<h3>Google Cloud</h3>
 
+- <b>Create a Virtual Machine</b>
+  - [Create VM instances using the Google Cloud console and Cloud Shell, then deploy and connect an NGINX web server]
 
 
 <h2>📜 Certifications:</h2>
