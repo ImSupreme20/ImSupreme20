@@ -22,7 +22,7 @@
 <h3>Google Cloud</h3>
 
 - <b>Create a Virtual Machine</b>
-  - [Create VM instances using the Google Cloud console and Cloud Shell, then deploy and connect an NGINX web server]
+  - [Create VM instances using the Google Cloud console and Cloud Shell](https://github.com/ImSupreme20/Creating-a-Virtual-Machine)
 
 
 <h2>📜 Certifications:</h2>
