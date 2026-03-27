@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) > -->
 
-<h2>☁️ Cloud Projects:</h2>
+<h2>☁️ Cloud Labs:</h2>
 <h3>Google Cloud</h3>
 
 - <b>Create a Virtual Machine</b>
