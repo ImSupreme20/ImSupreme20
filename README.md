@@ -22,7 +22,10 @@
 <h3>Google Cloud</h3>
 
 - <b>Create a Virtual Machine</b>
-  - [Create VM instances using the Google Cloud console and Cloud Shell](https://github.com/ImSupreme20/Creating-a-Virtual-Machine)
+  - [Create VM instances using the Google Cloud console and Cloud Shell](https://github.com/ImSupreme20/Crea-ting-a-Virtual-Machine)
+
+- <b>Google Cloud Storage</b>
+  - [Object storage on Google Cloud, including bucket creation, object uploads, folder organization, and public access configuration](https://github.com/ImSupreme20/Google-Cloud-Storage)
 
 
 <h2>📜 Certifications:</h2>
