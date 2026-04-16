@@ -27,6 +27,8 @@
 - <b>Google Cloud Storage</b>
   - [Object storage on Google Cloud, including bucket creation, object uploads, folder organization, and public access configuration](https://github.com/ImSupreme20/Google-Cloud-Storage)
 
+<h2>🛡️ Okta IAM Labs:</h2>
+
 
 <h2>📜 Certifications:</h2>
 
