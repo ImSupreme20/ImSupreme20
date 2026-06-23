@@ -1,6 +1,13 @@
-<h1>Hi, I'm Raymond! <br/><a href="https://www.linkedin.com/in/ifeanyichukwu-ezirike-3a176b2b8/">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Raymond! <br/><a href="https://www.linkedin.com/in/ifeanyichukwu-ezirike-3a176b2b8/">An aspiring Cybersecurity Professional</a></h1>
+<p>
+  Hi, I'm Raymond! I am an IT Senior at Towson University specializing in Network Security and currently working as an IS&T Intern at the University of Maryland Medical System. I design and build secure enterprise infrastructure baselines, with a deep focus on Active Directory management, systems automation via scripting, and defensive security hardening. I use this space to document production-ready security labs, cloud environments, and core networking architectures.
+</p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs:</h2>
+<h3>Active Directory</h3>
+
+ - <b>Active Directory Domain Services Lab</b>
+    - [Active Directory Lab-IAM Foundation](https://github.com/ImSupreme20/Active-Directory-Lab)
 
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -27,16 +34,28 @@
 - <b>Google Cloud Storage</b>
   - [Object storage on Google Cloud, including bucket creation, object uploads, folder organization, and public access configuration](https://github.com/ImSupreme20/Google-Cloud-Storage)
 
-<h2>🛡️ Okta IAM Labs:</h2>
+<!-- <h2>🛡️IAM Labs:</h2> --!>
 
 
 <h2>📜 Certifications:</h2>
+ <h3> Current Certifications</h3>
+ <ul>
+  <li>Google Cybersecurity Certificate </li>
+  <li>ISC2 Certified in Cybersecurity (CC)</li>
+ </ul> 
+ 
+<h3> Certifications in progress</h3>
+<ul>
+  <li>CompTIA Security+</li>
+  <li>AWS Cloud Practitioner</li>
+  <li>Okta Administrator</li>
+  <li>Microsoft Azure Administrator (AZ-104)</li>
+</ul>
 
+<br>
 
+- <a href="https://www.linkedin.com/in/ifeanyichukwu-ezirike-3a176b2b8/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22px" align="left" /> <b>Connect on LinkedIn</b></a>
 
-
-[<img align="left" alt="RaymondEzirike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]:https://www.linkedin.com/in/ifeanyichukwu-ezirike-3a176b2b8/
 <!--
 **ImSupreme20/ImSupreme20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
